@@ -1,4 +1,4 @@
-public class Hello_Bar_B_S{
+ublic class Hello_Bar_B_S{
 	public static void main(String[] args) {
 		 for (int i=1;i<=10; i++) {
 			System.out.println("Hello World ..."+i); 
