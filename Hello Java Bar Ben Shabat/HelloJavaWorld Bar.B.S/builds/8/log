@@ -1,0 +1,28 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace /Users/barbenshabat/.jenkins/workspace/HelloJavaWorld Bar.B.S
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /Users/barbenshabat/.jenkins/workspace/HelloJavaWorld Bar.B.S/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/BarDAP/JenGit-Bar-BS.git # timeout=10
+Fetching upstream changes from https://github.com/BarDAP/JenGit-Bar-BS.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.1 (Apple Git-130)'
+ > git fetch --tags --force --progress -- https://github.com/BarDAP/JenGit-Bar-BS.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision c73f1cdfa1cb24bff39004ec66b934980e040130 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c73f1cdfa1cb24bff39004ec66b934980e040130 # timeout=10
+Commit message: "Still cloudy :("
+ > git rev-list --no-walk 1588a4b95cf705ce225bc4baa2bd6044edb9ef7c # timeout=10
+[HelloJavaWorld Bar.B.S] $ /bin/sh -xe /var/folders/fm/w1vqdvtd2lsfdrk3rwj59dz40000gn/T/jenkins2955069904880915420.sh
++ cd /Users/barbenshabat/Downloads/Devops/JenGit
++ javac Hello_Bar_B_S.java
++ java Hello_Bar_B_S
+Still cloudy :(
+Still cloudy :(
+Still cloudy :(
+Still cloudy :(
+Still cloudy :(
+Finished: SUCCESS

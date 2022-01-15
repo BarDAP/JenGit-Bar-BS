@@ -1,0 +1,10 @@
+commit 004242afdd7c3b50d76f7d344fedb00e00c7458f
+tree 9cb5a85bbf790bdc32c526b8189ce28bfdc7bff4
+parent 58dc2c36485b5f62e3453b3245555281b704a42f
+author BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:26:30 +0200
+committer BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:26:30 +0200
+
+    Change number 4, one more to go
+
+
+:100644 100644 5223232b68d80ec1b62962955508f1495f00e286 738f4df8251158175b42039d43e3edc5a962f32a M	Hello_Bar_B_S.java

@@ -1,0 +1,10 @@
+commit 1588a4b95cf705ce225bc4baa2bd6044edb9ef7c
+tree 514b41a105527dd90f6985a7da6a110ab606b23c
+parent 004242afdd7c3b50d76f7d344fedb00e00c7458f
+author BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:29:14 +0200
+committer BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:29:14 +0200
+
+    Rain is gone
+
+
+:100644 100644 738f4df8251158175b42039d43e3edc5a962f32a e8b29b9f46edf22f3900d03aa1a580716426b274 M	Hello_Bar_B_S.java

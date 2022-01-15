@@ -1,0 +1,10 @@
+commit 34f4c8a5936a46b1f79ecc8ea552b900c29d21a6
+tree 6a589e343db85754cd802c0a8f3b23659a0d87ef
+parent 2a236e07379fbbbad0cad2895e9ecd6a0face29f
+author BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:21:38 +0200
+committer BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:21:38 +0200
+
+    Invalid script
+
+
+:100644 100644 606ac5322c0490970b286625b325e6670b148c0e 00c0a6893efbdf82258bc7d736c9b83e1b9869ab M	Hello_Bar_B_S.java

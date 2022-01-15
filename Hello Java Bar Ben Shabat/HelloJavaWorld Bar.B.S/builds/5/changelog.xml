@@ -1,0 +1,10 @@
+commit 58dc2c36485b5f62e3453b3245555281b704a42f
+tree 64950eb2ed3c97ab3a4017d05790ac97fffe3a62
+parent 34f4c8a5936a46b1f79ecc8ea552b900c29d21a6
+author BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:23:29 +0200
+committer BarDAP <“barbenshabat@gmail.comgit config --global user.name “BarDAP> 2021-11-07 22:23:29 +0200
+
+    Fix the script and changed the text
+
+
+:100644 100644 00c0a6893efbdf82258bc7d736c9b83e1b9869ab 5223232b68d80ec1b62962955508f1495f00e286 M	Hello_Bar_B_S.java

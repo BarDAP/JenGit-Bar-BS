@@ -1,0 +1,11 @@
+Started on Nov 7, 2021 10:21:00 PM
+Using strategy: Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.1 (Apple Git-130)'
+ > git ls-remote -h -- https://github.com/BarDAP/JenGit-Bar-BS.git # timeout=10
+Found 1 remote heads on https://github.com/BarDAP/JenGit-Bar-BS.git
+[poll] Latest remote head revision on refs/heads/main is: 2a236e07379fbbbad0cad2895e9ecd6a0face29f
+Done. Took 0.65 sec
+Changes found
